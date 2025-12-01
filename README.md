@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=3B82F6&center=true&width=600&lines=Developer+%7C+Designer+%7C+Innovator;Building+Elegant+Solutions;From+Algeria+to+the+World)](https://github.com/xgg.2)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=3B82F6&center=true&width=600&lines=Developer+%7C+Designer+%7C+Innovator;Building+Elegant+Solutions;From+Algeria+to+the+World)](https://github.com/xgg-2)
 
 <p>
   <img src="https://img.shields.io/badge/Open_to_Work-Yes-00D084?style=flat-square&logo=github&logoColor=white" alt="Open to Work">
@@ -139,11 +139,11 @@ dev = {
 
 <div align="center">
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=xgg.2&show_icons=true&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&icon_color=3B82F6&border_radius=10&card_width=400)](https://github.com/xgg.2)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=xgg-2&show_icons=true&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&icon_color=3B82F6&border_radius=10&card_width=400)](https://github.com/xgg-2)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgg.2&layout=compact&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&border_radius=10)](https://github.com/xgg.2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgg-2&layout=compact&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&border_radius=10)](https://github.com/xgg-2)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xgg.2&theme=dark&background=0d1117&border=3B82F6&stroke=3B82F6&ring=3B82F6&dates=888888&sideLabels=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6)](https://github.com/xgg.2)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xgg-2&theme=dark&background=0d1117&border=3B82F6&stroke=3B82F6&ring=3B82F6&dates=888888&sideLabels=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6)](https://github.com/xgg-2)
 
 </div>
 
@@ -254,7 +254,7 @@ ANALYZE → DESIGN → DEVELOP → TEST → DEPLOY → OPTIMIZE
 ### Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-xgg.2dev@proton.me-red?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xgg.2dev@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-000?style=for-the-badge&logo=github)](https://github.com/xgg.2)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-000?style=for-the-badge&logo=github)](https://github.com/xgg-2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-xgg--2.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://xgg-2.vercel.app/)
 [![Studio](https://img.shields.io/badge/Studio-xgg--2studio-purple?style=for-the-badge&logo=behance&logoColor=white)](https://xgg-2studio.prp.bio/)
 
@@ -317,7 +317,7 @@ I'm proud to be part of Algeria's tech community, bringing world-class solutions
 
 ### Profile Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xgg.2&theme=dracula&bg_color=0d1117&color=3B82F6&line=3B82F6&point=3B82F6)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xgg-2&theme=dracula&bg_color=0d1117&color=3B82F6&line=3B82F6&point=3B82F6)
 
 ---
 
@@ -337,7 +337,7 @@ Code Quality: Maintained Excellence
 
 **Thanks for visiting my profile! Star if you like what you see**
 
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=xgg.2.xgg.2&left_color=0d1117&right_color=3B82F6&left_text=Profile%20Views&right_text=Visitors)](https://github.com/xgg.2)
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=xgg-2.xgg-2&left_color=0d1117&right_color=3B82F6&left_text=Profile%20Views&right_text=Visitors)](https://github.com/xgg-2)
 
 *Email: xgg.2dev@proton.me | Portfolio: https://xgg-2.vercel.app/ | Studio: https://xgg-2studio.prp.bio/*
 
