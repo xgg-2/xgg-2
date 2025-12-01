@@ -1,182 +1,157 @@
-# xgg.2 — Developer | Designer | Innovator
-
+# 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=3B82F6&center=true&width=600&lines=Developer+%7C+Designer+%7C+Innovator;Building+Elegant+Solutions;From+Algeria+to+the+World)](https://github.com/xgg-2)
-
-<p>
-  <img src="https://img.shields.io/badge/Open_to_Work-Yes-00D084?style=flat-square&logo=github&logoColor=white" alt="Open to Work">
-  <img src="https://img.shields.io/badge/Based_In-Algeria-002868?style=flat-square" alt="Algeria">
-  <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-3B82F6?style=flat-square" alt="Status">
-</p>
-
-**Creating elegant, professional solutions that actually work**
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=1000&color=3B82F6&center=true&width=700&lines=xgg-2+%7C+Developer+%26+Designer;Building+Elegant+Solutions;From+Algeria+to+the+World)
 
 </div>
 
 ---
 
-## About Me
+## <div align="center"> 🚀 **PREMIUM DEVELOPER PROFILE** </div>
 
-I'm a passionate developer from Algeria dedicated to building **beautiful code with beautiful design**. I believe in the intersection of clean functionality and professional aesthetics. Every project I touch is infused with attention to detail, optimization, and excellence.
+<div align="center">
+
+| | | |
+|---|---|---|
+| ![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-3B82F6?style=for-the-badge&logo=bolt&logoColor=white) | ![Location](https://img.shields.io/badge/Location-Algeria-002868?style=for-the-badge&logo=locationdot&logoColor=white) | ![Open](https://img.shields.io/badge/Open_to_Work-Yes-00D084?style=for-the-badge&logo=github&logoColor=white) |
+
+</div>
+
+---
+
+## <div align="center"> ✨ **ABOUT ME** </div>
+
+<div align="center">
+
+> **"Code is art. Design is science. Together, they create magic."**
+
+</div>
+
+I'm **xgg-2**, a passionate developer from Algeria crafting **elegant, professional solutions** that blend perfect functionality with stunning design. Every project I touch becomes a masterpiece—optimized, beautiful, and production-ready.
 
 ```python
-dev = {
-    "name": "xgg.2",
-    "location": "Algeria",
-    "passion": "Creating elegant solutions",
-    "philosophy": "Good code + Great design = Perfect balance",
-    "currently_learning": ["Web Architecture", "Performance Optimization", "Design Systems"],
-    "open_to": ["Collaboration", "Cool Projects", "Ideas that matter"]
+developer = {
+    "name": "xgg-2",
+    "location": "Algeria 🌍",
+    "specialization": ["Web Development", "API Design", "Database Architecture", "Discord Automation", "Roblox Development"],
+    "philosophy": "Quality > Quantity. Beauty + Function = Excellence",
+    "mission": "Building tools that matter"
 }
 ```
 
-### What I Do
-
-- <img src="https://img.shields.io/badge/Web_Development-React_Vite-0066CC?style=flat-square" alt="Web Dev"> Modern web apps with React, TypeScript, Vite
-- <img src="https://img.shields.io/badge/API_Development-RESTful_GraphQL-3B82F6?style=flat-square" alt="API Dev"> Robust APIs, authentication, integration
-- <img src="https://img.shields.io/badge/Database_Design-SQL_NoSQL-10B981?style=flat-square" alt="Database"> Schema design, queries, optimization
-- <img src="https://img.shields.io/badge/Discord_Bots-Advanced_Automation-5865F2?style=flat-square" alt="Discord"> Full-featured Discord bots and automation
-- <img src="https://img.shields.io/badge/Game_Development-Roblox_Maps-E34C26?style=flat-square" alt="Game Dev"> Roblox game development and map creation
-- <img src="https://img.shields.io/badge/Design_Systems-Professional_Palettes-8B5CF6?style=flat-square" alt="Design Systems"> UI/UX, color systems, design frameworks
-
 ---
 
-## Tech Arsenal
+## <div align="center"> 💼 **TECH ARSENAL** </div>
 
+### **Frontend Technologies**
 <div align="center">
 
-### Frontend Technologies
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Programming Languages
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
+</div>
 
-### Databases & APIs
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-<img src="https://img.shields.io/badge/REST%20APIs-0066CC?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
+### **Backend & Programming Languages**
+<div align="center">
 
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio">
-<img src="https://img.shields.io/badge/API%20Design-FF6B6B?style=for-the-badge&logo=postman&logoColor=white" alt="API Design">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-### Specializations
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-8B5CF6?style=for-the-badge" alt="UI/UX">
-<img src="https://img.shields.io/badge/API%20Development-3B82F6?style=for-the-badge" alt="API Dev">
-<img src="https://img.shields.io/badge/Database%20Architecture-10B981?style=for-the-badge" alt="Database">
-<img src="https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots">
-<img src="https://img.shields.io/badge/Roblox%20Development-E34C26?style=for-the-badge" alt="Roblox Dev">
-<img src="https://img.shields.io/badge/Web%20Apps-0066CC?style=for-the-badge" alt="Web Apps">
-<img src="https://img.shields.io/badge/Performance%20Optimization-10B981?style=for-the-badge" alt="Optimization">
-<img src="https://img.shields.io/badge/Real_Time_Systems-FF6B9D?style=for-the-badge" alt="Real-Time">
+</div>
+
+### **Databases & APIs** ⚡
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0066CC?style=for-the-badge&logo=swagger&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</div>
+
+### **Tools & DevOps**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## Featured Projects
+## <div align="center"> 🎯 **CORE EXPERTISE** </div>
 
-### Discord Quest Panel
-**Professional Automation & Design Excellence**
-- <img src="https://img.shields.io/badge/-Target-0066CC?style=flat-square&logo=dart&logoColor=white" alt="Target"> Elegant bookmarklet for Discord automation
-- <img src="https://img.shields.io/badge/-Palette-8B5CF6?style=flat-square&logo=photoshop&logoColor=white" alt="Palette"> Professional color palette (emerald, blue, amber, red)
-- <img src="https://img.shields.io/badge/-UI-10B981?style=flat-square&logo=polymer&logoColor=white" alt="UI"> Glass-morphism UI with smooth animations
-- <img src="https://img.shields.io/badge/-Analytics-F59E0B?style=flat-square&logo=analytics&logoColor=white" alt="Analytics"> Real-time tracking and intelligent execution
-- <img src="https://img.shields.io/badge/-Production-EF4444?style=flat-square&logo=checkmark&logoColor=white" alt="Production"> Production-ready code
-
-**Stack:** JavaScript | DOM Manipulation | Discord API | CSS3 Gradients
-> *Demonstrates: Design thinking + functional excellence*
-
-### Discord Bot Development
-**Full-Featured Bot Solutions**
-- <img src="https://img.shields.io/badge/-Automation-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Automation"> Advanced command handling and event management
-- <img src="https://img.shields.io/badge/-Integration-3B82F6?style=flat-square" alt="Integration"> Database integration, API connections
-- <img src="https://img.shields.io/badge/-Performance-10B981?style=flat-square" alt="Performance"> Optimized for scale and reliability
-
-**Stack:** Discord.js | Node.js | TypeScript | Databases
-> *Building powerful, production-ready Discord bots*
-
-### Roblox Game Development
-**Custom Maps & Game Systems**
-- <img src="https://img.shields.io/badge/-Scripting-E34C26?style=flat-square" alt="Scripting"> Lua scripting for game mechanics
-- <img src="https://img.shields.io/badge/-Design-8B5CF6?style=flat-square" alt="Design"> Custom map design and level creation
-- <img src="https://img.shields.io/badge/-Systems-F59E0B?style=flat-square" alt="Systems"> Game systems and player mechanics
-
-**Stack:** Lua | Roblox Studio | Custom Game Mechanics
-> *Creating engaging Roblox experiences*
-
-### API & Backend Development
-**Full-Stack Backend Solutions**
-- <img src="https://img.shields.io/badge/-REST_APIs-0066CC?style=flat-square&logo=swagger&logoColor=white" alt="REST"> RESTful API design and implementation
-- <img src="https://img.shields.io/badge/-Database-10B981?style=flat-square&logo=postgresql&logoColor=white" alt="Database"> PostgreSQL, MongoDB, Firebase integration
-- <img src="https://img.shields.io/badge/-Authentication-3B82F6?style=flat-square" alt="Auth"> Secure authentication & authorization systems
-- <img src="https://img.shields.io/badge/-Real_Time-FF6B9D?style=flat-square&logo=socket.io&logoColor=white" alt="Real-Time"> WebSockets & real-time communication
-
-**Stack:** Node.js | Express | GraphQL | PostgreSQL | MongoDB | Firebase
-> *Building scalable, secure backends*
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=xgg-2&show_icons=true&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&icon_color=3B82F6&border_radius=10&card_width=400)](https://github.com/xgg-2)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgg-2&layout=compact&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&border_radius=10)](https://github.com/xgg-2)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xgg-2&theme=dark&background=0d1117&border=3B82F6&stroke=3B82F6&ring=3B82F6&dates=888888&sideLabels=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6)](https://github.com/xgg-2)
-
-</div>
-
----
-
-## Core Values & Philosophy
-
-<table>
+<table align="center">
 <tr>
-<td>
+<td align="center" width="50%">
 
-### Quality Over Quantity
-Every line of code matters. Fewer well-crafted solutions beat dozens of mediocre ones.
+### 🌐 **Web Development**
+- Modern React apps with TypeScript
+- Vite-powered performance
+- Responsive UI/UX design
+- Production-ready code
 
 </td>
-<td>
+<td align="center" width="50%">
 
-### Beauty Meets Function
-Professional design isn't optional—it's essential. Clean aesthetics enable better UX.
+### 🔌 **API Development**
+- RESTful & GraphQL APIs
+- Secure authentication
+- Real-time WebSocket systems
+- API scalability & optimization
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center" width="50%">
 
-### Performance First
-Fast, optimized code that respects user time and bandwidth.
+### 🗄️ **Database Architecture**
+- PostgreSQL optimization
+- MongoDB document design
+- Firebase integration
+- Data modeling excellence
 
 </td>
-<td>
+<td align="center" width="50%">
 
-### Knowledge Sharing
-The best code is documented and helps others grow.
+### 🤖 **Discord Automation**
+- Advanced bot development
+- Command handling systems
+- Database integration
+- Production-scale deployment
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🎮 **Roblox Development**
+- Lua game scripting
+- Custom map design
+- Game mechanics systems
+- Player experience optimization
+
+</td>
+<td align="center" width="50%">
+
+### 🎨 **Design Systems**
+- UI/UX excellence
+- Professional color theory
+- Component libraries
+- Design patterns
 
 </td>
 </tr>
@@ -184,170 +159,387 @@ The best code is documented and helps others grow.
 
 ---
 
-## My Development Approach
+## <div align="center"> ⭐ **FEATURED PROJECTS** </div>
 
-```
-ANALYZE → DESIGN → DEVELOP → TEST → DEPLOY → OPTIMIZE
-```
+<table align="center" width="100%">
+<tr>
+<td>
 
-**Every project follows this cycle of excellence.**
+### 🎯 **Discord Quest Panel**
+**Professional Automation Tool**
+
+- Elegant bookmarklet interface
+- Professional color palette
+- Glass-morphism UI design
+- Real-time tracking & execution
+- Production-ready codebase
+
+**Stack:** JavaScript | DOM API | Discord Webhooks | CSS3 Gradients
+
+> *Demonstrates: Design excellence meets functional perfection*
+
+</td>
+<td>
+
+### 🤖 **Discord Bot Suite**
+**Advanced Automation Solutions**
+
+- Full-featured command system
+- Database integration layer
+- API connection handling
+- Performance optimization
+- Scalable architecture
+
+**Stack:** Discord.js | Node.js | TypeScript | PostgreSQL
+
+> *Building bots that scale with your server*
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🎮 **Roblox Game Projects**
+**Custom Game Development**
+
+- Lua scripting excellence
+- Map design & creation
+- Game mechanics systems
+- Player engagement focus
+- Community-driven features
+
+**Stack:** Lua | Roblox Studio | Custom Systems
+
+> *Creating experiences that players love*
+
+</td>
+<td>
+
+### 🔌 **Backend API Systems**
+**Full-Stack Solutions**
+
+- RESTful API architecture
+- GraphQL implementation
+- Database layer design
+- Authentication systems
+- Real-time communication
+
+**Stack:** Node.js | Express | PostgreSQL | MongoDB
+
+> *Scalable backends powering modern apps*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Expertise Breakdown
+## <div align="center"> 📊 **EXPERTISE BREAKDOWN** </div>
 
-| Skill | Level | Experience |
-|-------|-------|------------|
-| **JavaScript** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | Frontend, Automation, Full-Stack |
-| **TypeScript** | <img src="https://img.shields.io/badge/Advanced-4Stars-10B981?style=flat-square" alt="Advanced"> | Type-safe applications |
-| **React & Vite** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | Modern web app development |
-| **HTML/CSS** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | Responsive & Professional Design |
-| **Discord.js** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | Bot development & automation |
-| **Lua** | <img src="https://img.shields.io/badge/Advanced-4Stars-10B981?style=flat-square" alt="Advanced"> | Roblox scripting & game mechanics |
-| **Roblox Development** | <img src="https://img.shields.io/badge/Advanced-4Stars-10B981?style=flat-square" alt="Advanced"> | Map design & game systems |
-| **UI/UX Design** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | System Design & Color Theory |
-| **API Integration** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | Discord, REST, WebSocket |
-| **RESTful APIs** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | API design & implementation |
-| **GraphQL** | <img src="https://img.shields.io/badge/Advanced-4Stars-10B981?style=flat-square" alt="Advanced"> | Query language & API patterns |
-| **PostgreSQL** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | Relational databases & optimization |
-| **MongoDB** | <img src="https://img.shields.io/badge/Advanced-4Stars-10B981?style=flat-square" alt="Advanced"> | NoSQL & document databases |
-| **Firebase** | <img src="https://img.shields.io/badge/Advanced-4Stars-10B981?style=flat-square" alt="Advanced"> | Real-time database & services |
-| **Performance** | <img src="https://img.shields.io/badge/Expert-5Stars-3B82F6?style=flat-square" alt="Expert"> | Optimization & Best Practices |
+<table align="center" width="100%">
+<tr>
+<th align="center">Skill</th>
+<th align="center">Level</th>
+<th align="center">Experience</th>
+</tr>
+<tr>
+<td><strong>JavaScript</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>Frontend, Automation, Full-Stack</td>
+</tr>
+<tr>
+<td><strong>TypeScript</strong></td>
+<td>⭐⭐⭐⭐ Advanced</td>
+<td>Type-safe applications</td>
+</tr>
+<tr>
+<td><strong>React & Vite</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>Modern web app development</td>
+</tr>
+<tr>
+<td><strong>HTML/CSS</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>Responsive & professional design</td>
+</tr>
+<tr>
+<td><strong>Discord.js</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>Bot development & automation</td>
+</tr>
+<tr>
+<td><strong>Lua</strong></td>
+<td>⭐⭐⭐⭐ Advanced</td>
+<td>Roblox scripting & mechanics</td>
+</tr>
+<tr>
+<td><strong>RESTful APIs</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>API design & implementation</td>
+</tr>
+<tr>
+<td><strong>GraphQL</strong></td>
+<td>⭐⭐⭐⭐ Advanced</td>
+<td>Query language & patterns</td>
+</tr>
+<tr>
+<td><strong>PostgreSQL</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>Database design & optimization</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td>⭐⭐⭐⭐ Advanced</td>
+<td>NoSQL & document databases</td>
+</tr>
+<tr>
+<td><strong>Firebase</strong></td>
+<td>⭐⭐⭐⭐ Advanced</td>
+<td>Real-time services & databases</td>
+</tr>
+<tr>
+<td><strong>UI/UX Design</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>System design & color theory</td>
+</tr>
+<tr>
+<td><strong>Performance</strong></td>
+<td>⭐⭐⭐⭐⭐ Expert</td>
+<td>Optimization & best practices</td>
+</tr>
+</table>
 
 ---
 
-## Currently Working On
-
-- **Discord Bot Suite** → Advanced automation and utility bots
-- **React + TypeScript Web Apps** → Modern web applications with Vite
-- **REST & GraphQL APIs** → Scalable backend services
-- **Database Architecture** → PostgreSQL & MongoDB optimization
-- **Roblox Game Projects** → Custom maps and game mechanics
-- **Design System** → Comprehensive component library
-- **Open Source Contributions** → Giving back to the community
-- **Educational Content** → Sharing knowledge with developers worldwide
-
----
-
-## Key Achievements
-
-<img src="https://img.shields.io/badge/Achieved-Professional_Tools-3B82F6?style=flat-square" alt="Achievement"> Built professional tools used by thousands
-<img src="https://img.shields.io/badge/Achieved-Code_Design_Harmony-10B981?style=flat-square" alt="Achievement"> Mastered the art of elegant code & design harmony
-<img src="https://img.shields.io/badge/Achieved-Documentation-8B5CF6?style=flat-square" alt="Achievement"> Created documentation that's actually readable
-<img src="https://img.shields.io/badge/Achieved-Performance_Optimization-F59E0B?style=flat-square" alt="Achievement"> Optimized applications for maximum performance
-<img src="https://img.shields.io/badge/Achieved-Code_Quality-EF4444?style=flat-square" alt="Achievement"> Maintained 100% focus on code quality
-<img src="https://img.shields.io/badge/Achieved-Open_Source-2D5016?style=flat-square" alt="Achievement"> Contributed to multiple open-source projects
-<img src="https://img.shields.io/badge/Achieved-Mentoring-FF6B9D?style=flat-square" alt="Achievement"> Helped developers level up their skills
-
----
-
-## Let's Connect & Collaborate
+## <div align="center"> 📈 **GITHUB ANALYTICS** </div>
 
 <div align="center">
 
-**I'm always interested in:**
-- Exciting projects that solve real problems
-- Collaboration with fellow developers
-- Mentoring & knowledge exchange
-- Your brilliant ideas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xgg-2&show_icons=true&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&icon_color=3B82F6&border_radius=15&card_width=400)](https://github.com/xgg-2)
 
-### Get In Touch
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgg-2&layout=compact&theme=dracula&bg_color=0d1117&border_color=3B82F6&text_color=e6edf3&border_radius=15)](https://github.com/xgg-2)
 
-[![Email](https://img.shields.io/badge/Email-xgg.2dev@proton.me-red?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xgg.2dev@proton.me)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xgg-2&theme=dark&background=0d1117&border=3B82F6&stroke=3B82F6&ring=3B82F6&dates=888888&sideLabels=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6)](https://github.com/xgg-2)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xgg-2&theme=dracula&bg_color=0d1117&color=3B82F6&line=3B82F6&point=3B82F6&border_radius=15)
+
+</div>
+
+---
+
+## <div align="center"> 🎯 **DEVELOPMENT PHILOSOPHY** </div>
+
+<div align="center">
+
+```
+ANALYZE → DESIGN → DEVELOP → TEST → DEPLOY → OPTIMIZE → SCALE
+         Excellence at Every Step
+```
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+
+### 💎 **Quality First**
+Every line of code is crafted with precision. Excellence isn't optional—it's mandatory.
+
+</td>
+<td align="center" width="50%">
+
+### 🎨 **Design Matters**
+Beautiful code + stunning UI = unforgettable user experience
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ **Performance**
+Speed is a feature. Optimization is built-in.
+
+</td>
+<td align="center" width="50%">
+
+### 📚 **Knowledge Sharing**
+Documentation that's actually readable. Code that inspires.
+
+</td>
+</tr>
+</table>
+
+---
+
+## <div align="center"> 🚀 **CURRENT FOCUS** </div>
+
+<div align="center">
+
+- **Discord Bot Suite** → Advanced automation at scale
+- **REST & GraphQL APIs** → Scalable backend services  
+- **Database Architecture** → PostgreSQL & MongoDB optimization
+- **React + TypeScript** → Modern web applications
+- **Roblox Projects** → Engaging game experiences
+- **Design Systems** → Production component libraries
+- **Open Source** → Contributing to the community
+
+</div>
+
+---
+
+## <div align="center"> 🏆 **KEY ACHIEVEMENTS** </div>
+
+<div align="center">
+
+| Achievement | Impact |
+|---|---|
+| 🎯 Professional Tools Deployed | Used by thousands of developers |
+| 🎨 Design System Framework | Comprehensive component library |
+| ⚡ Performance Optimization | 60%+ improvement across projects |
+| 🚀 Production Deployments | Multiple projects at scale |
+| 💯 Code Quality | Maintained excellence across all work |
+| 🌟 Open Source Contributions | Giving back to the community |
+| 👨‍🏫 Mentoring | Helping developers grow |
+| 🌍 Global Reach | Building from Algeria for the world |
+
+</div>
+
+---
+
+## <div align="center"> 💬 **LET'S CONNECT** </div>
+
+<div align="center">
+
+### **Get In Touch**
+
+[![Email](https://img.shields.io/badge/Email-xgg.2dev%40proton.me-red?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xgg.2dev@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-000?style=for-the-badge&logo=github)](https://github.com/xgg-2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-xgg--2.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://xgg-2.vercel.app/)
 [![Studio](https://img.shields.io/badge/Studio-xgg--2studio-purple?style=for-the-badge&logo=behance&logoColor=white)](https://xgg-2studio.prp.bio/)
 
-**Let's build something incredible together!**
-
 </div>
 
 ---
 
-## Growth & Learning Path
-
-```
-2024-2025: Mastering System Design & Advanced Architecture
-├── Deep dive into design patterns
-├── Performance optimization techniques
-├── Building scalable applications
-└── Advanced JavaScript concepts
-
-2025+: Leading Innovation in Web Development
-├── Contributing to major open-source projects
-├── Speaking at tech conferences
-├── Mentoring next generation developers
-└── Building products that change the world
-```
-
----
-
-## Why Work With Me?
-
-| Aspect | Benefit |
-|--------|---------|
-| Design Excellence | Every project is beautiful AND functional |
-| Performance | Fast, optimized, production-ready code |
-| Documentation | Clear, comprehensive guides & comments |
-| Collaboration | Easy to work with, open to feedback |
-| Results | Delivered projects that exceed expectations |
-| Innovation | Always bringing fresh ideas & solutions |
-
----
-
-## From Algeria to the World
-
-I'm proud to be part of Algeria's tech community, bringing world-class solutions to global problems. Every project carries the excellence and dedication that defines my work ethic.
-
-**Based in Algeria | Coding for the World**
-
----
+## <div align="center"> 📊 **PROFILE METRICS** </div>
 
 <div align="center">
-
-### Always Open to
-
-- Collaboration & partnerships
-- Freelance & full-time opportunities
-- Mentoring & knowledge sharing
-- Experimental & innovative projects
-- Challenges that push boundaries
-
----
-
-### Profile Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xgg-2&theme=dracula&bg_color=0d1117&color=3B82F6&line=3B82F6&point=3B82F6)
-
----
-
-### Recent Achievements
-
-```
-Professional Automation Tools Deployed
-Design System Framework Created
-Performance Optimization: 60% Improvement
-Multiple Projects in Production
-Code Quality: Maintained Excellence
-```
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile! Star if you like what you see**
 
 [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=xgg-2.xgg-2&left_color=0d1117&right_color=3B82F6&left_text=Profile%20Views&right_text=Visitors)](https://github.com/xgg-2)
 
-*Email: xgg.2dev@proton.me | Portfolio: https://xgg-2.vercel.app/ | Studio: https://xgg-2studio.prp.bio/*
+</div>
 
-*Last updated: December 2025 | Built with passion from Algeria*
+---
+
+## <div align="center"> 🌟 **WHY WORK WITH ME?** </div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Results-Driven**
+Every project delivers measurable impact and exceeds expectations
+
+</td>
+<td align="center" width="50%">
+
+### 🔧 **Full-Stack Expertise**
+From beautiful UIs to scalable backends, I've got you covered
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📚 **Professional Standards**
+Production-ready code with comprehensive documentation
+
+</td>
+<td align="center" width="50%">
+
+### 🤝 **Easy to Work With**
+Collaborative, responsive, and always open to feedback
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ **Performance-First**
+Optimized solutions that users actually love
+
+</td>
+<td align="center" width="50%">
+
+### 🌟 **Innovation**
+Fresh ideas, cutting-edge solutions, always pushing boundaries
+
+</td>
+</tr>
+</table>
+
+---
+
+## <div align="center"> 🌍 **FROM ALGERIA TO THE WORLD** </div>
+
+<div align="center">
+
+I'm proud to be part of Algeria's growing tech community, bringing **world-class solutions to global problems**. Every project carries the passion, dedication, and excellence that defines my work.
+
+**Based in Algeria | Building for the World | Always Learning**
 
 </div>
 
 ---
 
-> **"Code is poetry. Design is the artist. Together, they create magic."**
->
-> *— xgg.2*
+## <div align="center"> 🎓 **GROWTH PATH** </div>
 
+```
+2024-2025: Mastering System Design
+├─ Design patterns & best practices
+├─ Performance optimization techniques  
+├─ Building scalable applications
+└─ Advanced JavaScript & TypeScript
+
+2025+: Leading Innovation
+├─ Major open-source contributions
+├─ Speaking at tech conferences
+├─ Mentoring next-generation developers
+└─ Building products that matter
+```
+
+---
+
+## <div align="center"> 🎨 **ALWAYS OPEN TO** </div>
+
+<div align="center">
+
+✓ Collaboration & partnerships  
+✓ Freelance & full-time opportunities  
+✓ Mentoring & knowledge sharing  
+✓ Innovative & experimental projects  
+✓ Challenges that push boundaries
+
+</div>
+
+---
+
+<div align="center">
+
+### **Thanks for visiting my profile!**
+
+**⭐ Star if you like what you see!**
+
+---
+
+*Email: xgg.2dev@proton.me | Portfolio: https://xgg-2.vercel.app/ | Studio: https://xgg-2studio.prp.bio/*
+
+*Last updated: December 2025 | Built with passion from Algeria 🇩🇿*
+
+---
+
+> **"Your code is your legacy. Make it beautiful."**
+> 
+> *— xgg-2*
+
+</div>
