@@ -1,4 +1,4 @@
-# xgg.2 — Developer | Designer | Innovator
+# xgg.2 — Developer | Innovator
 
 <div align="center">
 
