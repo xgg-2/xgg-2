@@ -1,58 +1,63 @@
-
-# [SYSTEM_CORE] :: TERMINAL_XGG2
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=120&section=header&text=XGG2%20//%20ALGORITHM%20ARCHITECT&fontSize=45&fontColor=00ff41" width="100%" />
-</div>
-
-## 0x01. IDENTITY_REPORT
+# [SYSTEM_CORE] :: XGG-2
 
 ```toml
-[profile]
-user_id    = "xgg-2"
-alias      = "Youcef"
-age        = 19
-location   = "Algeria [DZ]"
-status     = "Daily_Development_Cycle"
+[identity]
+handle    = "xgg-2"
+alias     = "Youcef"
+location  = "Algeria [DZ]"
+build     = "2005"
+status    = "active"
 
-[fields]
-focus      = ["Discord_Bots", "Web_Apps", "Software_Architecture"]
-experience = "Continuous_Learning"
+[focus]
+primary   = ["Discord Automation", "Local AI Tools", "Web Apps"]
+stack     = ["TypeScript", "Node.js", "Python", "React", "Next.js"]
+ops       = ["Linux", "Docker", "Git"]
 ```
 
-## 0x02. HARDWARE_STACK [SKILLS]
+---
 
-| LAYER | TECHNOLOGIES |
-|---|---|
-| **SYSTEM** | Node.js, Python, TypeScript, JavaScript |
-| **INTERFACE** | React, Next.js, TailwindCSS |
-| **DATABASE** | MongoDB, Firebase, Express |
-| **OPERATIONS** | Linux, Docker, Git, CLI |
+## CURRENT_BUILD
 
-## 0x03. LIVE_METRICS
+| PROJECT | DESCRIPTION | STACK |
+|---------|-------------|-------|
+| [USB-Uncensored-LLM](https://github.com/xgg-2/USB-Uncensored-LLM) | Portable air-gapped AI — run LLMs from USB, no install, cross-platform | Shell · Python · HTML |
+| [Discord-Quest-Spoofer](https://github.com/xgg-2/Discord-Quest-Spoofer) | Auto-complete Discord quests sequentially in-browser, zero manual input | JavaScript |
+| Discord-Quest-Bot-Premium2 | Full-featured Discord automation bot | TypeScript |
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xgg-2&show_icons=true&theme=transparent&hide_border=true&title_color=00ff41&text_color=ffffff&icon_color=00ff41" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgg-2&layout=compact&theme=transparent&hide_border=true&title_color=00ff41&text_color=ffffff" height="150" />
-</div>
+---
 
-## 0x04. CONTRIBUTION_WAVEFORM
+## METRICS
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=xgg-2&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&include_all_commits=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgg-2&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=8b949e&count_private=true" height="150" />
 </div>
 
-## 0x05. ACCESS_POINTS
+---
+
+## CONTRIBUTION_GRID
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution grid snake" src="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+---
+
+## CONTACT
 
 ```bash
-$ contact --service discord --id "xgg.2"
-$ contact --service email   --id "contact@xgg2.dev"
+$ contact --discord "xgg.2"
+$ contact --email   "contact@xgg2.dev"
 ```
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=xgg-2&color=00ff41&style=flat-square&label=STATION_VISITS" />
+<img src="https://komarev.com/ghpvc/?username=xgg-2&color=8b949e&style=flat-square&label=profile+views" />
 </div>
 
 <div align="center">
-<code>ESTABLISHED_2005 // LOCATED_IN_ALGERIA // xgg-2.sys</code>
+<sub>ESTABLISHED_2005 // DZ // xgg-2.sys</sub>
 </div>
