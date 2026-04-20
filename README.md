@@ -35,7 +35,7 @@ LAST_UPDATED:  2026-04-20 18:50 UTC
 ## METRICS
 
 <div align="center">
-<img src="https://gist.github.com/xgg-2/9a948c8a07d7abc0786b757ab343fdd4/raw/metrics.svg" width="100%" />
+<img src="https://gist.githubusercontent.com/xgg-2/9a948c8a07d7abc0786b757ab343fdd4/raw/metrics.svg" width="100%" />
 </div>
 
 ---
