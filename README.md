@@ -56,7 +56,7 @@ LAST_UPDATED:  2026-04-20 19:02 UTC
 
 ```bash
 $ contact --discord "xgg.2"
-$ contact --email   "contact@xgg2.dev"
+$ contact --email   "xgg.2dev@proton.me"
 ```
 
 <div align="center">
