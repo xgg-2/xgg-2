@@ -12,6 +12,12 @@ status    = "active"
 primary   = ["Discord Automation", "Local AI Tools", "Web Apps"]
 stack     = ["TypeScript", "Node.js", "Python", "React", "Next.js"]
 ops       = ["Linux", "Docker", "Git"]
+
+[live_stats]
+STREAK:        0
+TOTAL_COMMITS: 0
+ACTIVE_DAYS:   0
+LAST_UPDATED:  never
 ```
 
 ---
@@ -29,8 +35,7 @@ ops       = ["Linux", "Docker", "Git"]
 ## METRICS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xgg-2&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&include_all_commits=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgg-2&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=8b949e&count_private=true" height="150" />
+<img src="https://gist.github.com/xgg-2/9a948c8a07d7abc0786b757ab343fdd4/raw/metrics.svg" width="100%" />
 </div>
 
 ---
@@ -39,7 +44,7 @@ ops       = ["Linux", "Docker", "Git"]
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake.svg" />
   <img alt="contribution grid snake" src="https://raw.githubusercontent.com/xgg-2/xgg-2/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
