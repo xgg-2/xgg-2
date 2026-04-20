@@ -15,7 +15,7 @@ status     = "Daily_Development_Cycle"
 focus      = ["Discord_Bots", "Web_Apps", "Software_Architecture"]
 experience = "Continuous_Learning"
 
-```
+
 ## 0x02. HARDWARE_STACK [SKILLS]
 | LAYER | TECHNOLOGIES |
 |---|---|
@@ -37,7 +37,7 @@ experience = "Continuous_Learning"
 # Connection protocols established
 $contact --service discord --id "xgg.2"$ contact --service email   --id "contact@xgg2.dev"
 
-```
+
 <div align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dxgg-2%26color%3D00ff41%26style%3Dflat-square%26label%3DSTATION_VISITS" />
 </div>
