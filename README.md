@@ -28,7 +28,6 @@ LAST_UPDATED:  2026-04-24 02:35 UTC
 |---------|-------------|-------|
 | [USB-Uncensored-LLM](https://github.com/xgg-2/USB-Uncensored-LLM) | Portable air-gapped AI — run LLMs from USB, no install, cross-platform | Shell · Python · HTML |
 | [Discord-Quest-Spoofer](https://github.com/xgg-2/Discord-Quest-Spoofer) | Auto-complete Discord quests sequentially in-browser, zero manual input | JavaScript |
-| Discord-Quest-Bot-Premium2 | Full-featured Discord automation bot | TypeScript |
 
 ---
 
