@@ -4,7 +4,6 @@
 [identity]
 handle    = "xgg-2"
 alias     = "Youcef"
-location  = "Algeria [DZ]"
 build     = "2007"
 status    = "active"
 
@@ -63,5 +62,5 @@ $ contact --email   "xgg.2dev@proton.me"
 </div>
 
 <div align="center">
-<sub>ESTABLISHED_2005 // DZ // xgg-2.sys</sub>
+<sub>xgg-2.sys</sub>
 </div>
