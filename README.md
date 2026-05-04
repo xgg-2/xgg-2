@@ -1,4 +1,4 @@
-# [SYSTEM_CORE] :: XGG-2
+# > xgg-2
 
 ```toml
 [identity]
