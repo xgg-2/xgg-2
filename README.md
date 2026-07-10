@@ -1,5 +1,7 @@
 # > xgg-2
 
+![Discord card](https://lumina-api-ky2v.onrender.com/api/v1/users/1159928250148077728/card.svg)
+---
 ```toml
 [identity]
 handle    = "xgg-2"
@@ -20,7 +22,6 @@ LAST_UPDATED:  2026-07-10 01:43 UTC
 ```
 
 ---
- ![Discord card](https://lumina-api-ky2v.onrender.com/api/v1/users/1159928250148077728/card.svg)
 ## METRICS
 
 <div align="center">
