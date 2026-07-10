@@ -1,7 +1,7 @@
 # xgg-2
 
 <div align="center">
-<img src="https://lumina-api-ky2v.onrender.com/api/v1/users/1159928250148077728/card.svg" width="100%" />
+<img src="https://lumina-api-ky2v.onrender.com/api/v1/users/1159928250148077728/card.svg?bg=0d1117&bg2=161b22&accent=58a6ff&nameColor=f0f6fc&subColor=8b949e&borderColor=30363d&radius=8" width="100%" />
 </div>
 
 ---
