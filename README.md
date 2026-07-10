@@ -1,12 +1,15 @@
 # > xgg-2
 
-![Discord card](https://lumina-api-ky2v.onrender.com/api/v1/users/1159928250148077728/card.svg)
+<div align="center">
+<img src="https://lumina-api-ky2v.onrender.com/api/v1/users/1159928250148077728/card.svg" width="100%" />
+</div>
+
 ---
 ```toml
 [identity]
 handle    = "xgg-2"
 alias     = "Youcef"
-build     = "2007"
+born     = "2007"
 status    = "active"
 
 [focus]
