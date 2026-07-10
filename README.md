@@ -1,4 +1,4 @@
-# > xgg-2
+# xgg-2
 
 <div align="center">
 <img src="https://lumina-api-ky2v.onrender.com/api/v1/users/1159928250148077728/card.svg" width="100%" />
