@@ -7,8 +7,8 @@
 ---
 ```toml
 [identity]
-handle    = "xgg-2"
-alias     = "Youcef"
+handle    = "xgg.2"
+alias     = "youcef"
 born     = "2007"
 status    = "active"
 
